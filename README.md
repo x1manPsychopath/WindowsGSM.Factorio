@@ -1,3 +1,22 @@
+<p align="center">
+  <img src="icon.png" width="128" alt="Factorio Plugin Icon">
+</p>
+
+<h1 align="center">WindowsGSM.Factorio</h1>
+
+<p align="center">
+  A fully updated and modernized WindowsGSM plugin for hosting Factorio Dedicated Servers.
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOURNAME/WindowsGSM.Factorio-main/releases">
+    <img src="https://img.shields.io/github/v/release/YOURNAME/WindowsGSM.Factorio-main?color=gold&label=version" alt="Version">
+  </a>
+  <img src="https://img.shields.io/badge/Factorio-Dedicated%20Server-orange" alt="Factorio">
+  <img src="https://img.shields.io/badge/WindowsGSM-Plugin-blue" alt="WindowsGSM">
+</p>
+
+---
 # WindowsGSM.Factorio  
 A fully updated and corrected WindowsGSM plugin for hosting **Factorio Dedicated Servers** using SteamCMD.
 
@@ -77,4 +96,4 @@ See the `LICENSE` file for details.
 - Plugin rewritten and modernized by **Joshua + Copilot**
 - Original concept by Andy
 
-- ![Version](https://img.shields.io/github/v/release/x1manPsychopath/WindowsGSM.Factorio?style=flat-square&color=gold)
+- ![Version](https://img.shields.io/github/v/release/x1manPsychopath/WindowsGSM.Factorio-main?style=flat-square&color=gold)
