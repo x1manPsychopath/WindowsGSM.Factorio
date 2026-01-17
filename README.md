@@ -76,3 +76,5 @@ See the `LICENSE` file for details.
 
 - Plugin rewritten and modernized by **Joshua + Copilot**
 - Original concept by Andy
+
+- ![Version](https://img.shields.io/github/v/release/YOURNAME/WindowsGSM.Factorio?style=flat-square&color=gold)
